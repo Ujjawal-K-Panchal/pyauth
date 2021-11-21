@@ -7,9 +7,9 @@
 ## Installation Instructions.
 1. Clone the repo: `git clone git@github.com:Ujjawal-K-Panchal/pyauth.git`
 2. Create a Virtual Environment: (Optional but Recommended).
-  2.1. `pip install virtualenv`
-  2.2. `python -m venv <any-name>`.
-  2.3. Linux, Mac: `source <any-name>/bin/activate`. Windows: `<any-name>\Scripts\activate`.
+  - `pip install virtualenv`.
+  - `python -m venv <any-name>`.
+  - Linux, Mac: `source <any-name>/bin/activate`. Windows: `<any-name>\Scripts\activate`.
 4. Install the repo: `pip install ./pyauth`
 
 ## Usage Example:
