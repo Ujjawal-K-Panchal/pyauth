@@ -1,4 +1,5 @@
-# pyauth2: Python Library for Easy JWT based Authentication Protocols Implementation.
+# pyauth2
+## A Python package for easy jwt based authentication protocols implementation.
 
 ## Generating sample public and private keys: (you don't need to do it. It's here only for reproducibility, unit testing and future analysis.)
 1. `openssl genrsa -out ./creds/private-key.pem`
