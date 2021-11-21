@@ -21,8 +21,8 @@ class OAuth2():
         TokenClass: BaseModel,
         private_key: Optional[str] = None,
         public_key: Optional[str] = None,
-        private_key_file: Union[str, Path] = "creds/private-key.pem",
-        public_key_file: Union[str, Path] = "creds/public-key.pem",
+        private_key_file: Union[str, Path] = "../creds/private-key.pem",
+        public_key_file: Union[str, Path] = "../creds/public-key.pem",
         encryption_algorithm: str = "RS256",
         default_expire: int = 5
     ):
@@ -75,7 +75,6 @@ if __name__ == "__main__":
         exp: datetime
 
     oauth2 = OAuth2(BM)
-    print(f"{oauth2=}.")
 
     #1. dict.
     print("===(dict)===")
