@@ -7,7 +7,7 @@ Created on Mon Nov 21 11:34:20 2021
 Copyright (C) Ujjawal K. Panchal - All Rights Reserved.
 
 ---
-To use this code, propogate the copyright into your repository.
+To use this code, propogate the copyright & license into your repository.
 """
 from typing import Union, Optional, Iterable
 from pathlib import Path
