@@ -10,7 +10,7 @@
   - `pip install virtualenv`.
   - `python -m venv <any-name>`.
   - Linux, Mac: `source <any-name>/bin/activate`. Windows: `<any-name>\Scripts\activate`.
-4. Install the repo: `pip install ./pyauth`
+3. Install the repo: `pip install ./pyauth`
 
 ## Usage Example:
 
