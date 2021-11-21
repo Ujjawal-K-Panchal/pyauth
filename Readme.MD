@@ -1,4 +1,4 @@
-# pyauth2
+# pyauth
 ## A Python package for easy jwt based authentication protocols implementation.
 
 ## Generating sample public and private keys: (you don't need to do it. It's here only for reproducibility, unit testing and future analysis.)
